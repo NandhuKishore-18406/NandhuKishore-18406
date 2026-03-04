@@ -8,7 +8,7 @@ Still figuring things out, and enjoying the process.
 ## 🧩 Currently exploring
 
 ```rust
-let learning = vec!["Rust", "Dart"];
+let learning = vec!["Kotlin","go"];
 ```
 
 Most of my experience is with JavaScript and Python.  
